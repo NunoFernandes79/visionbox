@@ -3,7 +3,7 @@ __author__ = 'Nuno.Fernandes'
 class lang:
     def choose():
         print ('primeira')
-        terceira()
+        
 
 
 
